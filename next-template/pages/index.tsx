@@ -2,8 +2,8 @@
 import type { NextPage } from "next";
 import Link from "next/link";
 import styled from "@emotion/styled";
-import Home from "../components/Home";
-import Button from "../components/Button";
+import Home from "@components/Home";
+import Button from "@components/Button";
 
 const A = styled.a`
   all: unset;
